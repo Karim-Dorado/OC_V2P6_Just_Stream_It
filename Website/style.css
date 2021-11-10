@@ -153,6 +153,8 @@
     position: relative;
     left: 290px;
     bottom: 75px;
+    text-overflow: ellipsis;
+    max-width: 200px;
     }
     div#genres {
     position: relative;
